@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="meme_categories" translatable="false">
+        <item>@string/main__memecat__goundamani</item>
+        <item>@string/main__memecat__vadivel</item>
+        <item>@string/main__memecat__soori</item>
+
+    </string-array>
+</resources>

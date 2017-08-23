@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "836087249291",
+    "firebase_url": "https://tamil-meme-168103.firebaseio.com",
+    "project_id": "tamil-meme-168103",
+    "storage_bucket": "tamil-meme-168103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836087249291:android:cc9b97dacb4193ca",
+        "android_client_info": {
+          "package_name": "com.app.memecreator.tamil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836087249291-m7nd3co3icm3u5u63inv6rvulpc748m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.memecreator.tamil",
+            "certificate_hash": "df7b2af56322a83eedd9ca190c6317bce987ee69"
+          }
+        },
+        {
+          "client_id": "836087249291-0aorprisrfo5ko5fkuialdcabjp0fhfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMWNF36C9emX4yt7k-VoQOXWUbRYiWurk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836087249291-0aorprisrfo5ko5fkuialdcabjp0fhfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
